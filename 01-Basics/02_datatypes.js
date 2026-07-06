@@ -13,3 +13,9 @@ null;                       // Null ==> stanalone val / empty
 
 console.log(typeof null);  // object
 console.log(typeof undefined);  // type
+
+const id = Symbol('123');
+const anotherId = Symbol('123');
+
+console.log(id === anotherId);
+
