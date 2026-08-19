@@ -22,6 +22,7 @@ My ongoing journey of learning JavaScript through concepts, practice, and projec
 * `06-DOM` → DOM manipulation
 * `07-Projects` → Practice projects
 * `08-Events` → Event concepts and practice
+* `09-Advance-one` → request api and practice
 
 ## What's Next
 
