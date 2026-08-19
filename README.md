@@ -23,6 +23,7 @@ My ongoing journey of learning JavaScript through concepts, practice, and projec
 * `07-Projects` → Practice projects
 * `08-Events` → Event concepts and practice
 * `09-Advance-one` → request api and practice
+* `09-Advance-one` → studied about promises in js in depth like fetch , .then etc
 
 ## What's Next
 
