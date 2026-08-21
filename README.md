@@ -24,6 +24,7 @@ My ongoing journey of learning JavaScript through concepts, practice, and projec
 * `08-Events` → Event concepts and practice
 * `09-Advance-one` → request api and practice
 * `09-Advance-one` → studied about promises in js in depth like fetch , .then etc
+* `10-OOP` → just started with oop, studied about current context that is 'this',how to use it
 
 ## What's Next
 
