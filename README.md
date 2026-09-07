@@ -60,7 +60,7 @@ A responsive Tic Tac Toe game built with:
 - Responsive design
 - Deployed on Vercel
 
-🔗 **Live Demo:** [Play Tic Tac Toe](YOUR-VERCEL-LINK)
+🔗 **Live Demo:** [Play Tic Tac Toe](https://tic-tac-toe-game-ten-tawny.vercel.app/)
 
 ## 🎯 Status
 
