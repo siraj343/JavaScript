@@ -13,3 +13,8 @@ const user = {
 
 console.log(user.age);
 console.log(user.getUserDetails());
+
+
+function User(username, liginCount, isLoggedIn){
+    username = username
+}
